@@ -1,0 +1,16 @@
+{
+  "BarChart": 2,
+  "Menu": 2,
+  "Button": 28,
+  "Icon": 1,
+  "Image": 31,
+  "Flex": 52,
+  "Input": 1,
+  "AreaChart": 1,
+  "PieChart": 1,
+  "Table": 1,
+  "Upload": 1,
+  "TextBox": 72,
+  "Div": 41,
+  "Carousel": 1
+}
